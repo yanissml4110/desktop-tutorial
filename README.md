@@ -3,7 +3,7 @@
   <head>
     <style type="text/css">
      <div style="background-color:orange; border:1px solid black; color💙; font-size:150%; padding:1em;">
-  Cette balise div a du style !
+  Cette balise div est ma page !
 </div>
     </style>
     <meta charset="utf-8">
