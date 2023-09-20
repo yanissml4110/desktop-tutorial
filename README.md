@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="fr">
   <head>
+    <style type="text/css">
+    <table border="2" bgcolor="silver" cellpadding="6" cellspacing="0">
+       div 
+    {
+      background-color:#200;
+      color:#fff;
+      padding:15px;
+      border-bottom:5px solid red;
+      margin-bottom:15px;
+       }
+    </style>
     <meta charset="utf-8">
     <title>Titre</title>
   </head>
