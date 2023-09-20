@@ -2,15 +2,9 @@
 <html lang="fr">
   <head>
     <style type="text/css">
-    <table border="2" bgcolor="silver" cellpadding="6" cellspacing="0">
-       div 
-    {
-      background-color:#200;
-      color:#fff;
-      padding:15px;
-      border-bottom:5px solid red;
-      margin-bottom:15px;
-       }
+     <div style="background-color:orange; border:1px solid black; color💙; font-size:150%; padding:1em;">
+  Cette balise div a du style !
+</div>
     </style>
     <meta charset="utf-8">
     <title>Titre</title>
